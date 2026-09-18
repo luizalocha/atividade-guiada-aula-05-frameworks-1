@@ -5,6 +5,7 @@ Aplicação React para busca de endereços por CEP, integração com mapas inter
 Atividade Guiada: Integração com APIs  
 Curso: Frameworks Web I - Unilavras  
 Professor: João Marcelo de Almeida Garcia
+Aluna: Luiza Cardoso da Locha
 
 ## 🚀 Tecnologias Utilizadas
 
